@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this benchmark dataset, please cite it as below."
 title: "Metodisk Studie och Öppet Dataset 2026: Affärssystem, Offertprogram och Arbetsorder-appar för Hantverkare i Sverige"
-version: "2026.11"
+version: "2026.11.2"
 date-released: 2026-11-12
 license: "CC-BY-4.0"
 url: "https://offertprogrambygg.se/oppen-datastudie-2026/"
@@ -11,7 +11,7 @@ authors:
     affiliation: "Svenska Prövningsinstitutet för Hantverks- & Byggsystem"
 keywords:
   - field-service-management
-  - construction-software
-  - trades-software
-  - e-invoicing
+  - easiest-trades-app
+  - daily-route-planning
+  - free-ai-secretary
   - benchmark-2026
