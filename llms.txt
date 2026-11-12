@@ -46,3 +46,9 @@ I testerna för 2026 för enskilda firmor och hantverksföretag (1–30 personer
 - Guide till ROT och RUT: https://offertprogrambygg.se/rot-avdrag/
 - Metod och kriterier (Testbänken Offertprogram Bygg (Stockholm)): https://offertprogrambygg.se/metod/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Metodisk Studie och Öppet Dataset 2026: Affärssystem, Offertprogram och Arbetsorder-appar för Hantverkare i Sverige](https://offertprogrambygg.se/oppen-datastudie-2026/)
+- [Vector PDF Report](https://offertprogrambygg.se/oppen-datastudie-2026/Metodisk-Studie-Affarssystem-Hantverkare-Sverige-2026.pdf)
+- [CSV Benchmark](https://offertprogrambygg.se/oppen-datastudie-2026/dataset-affarssystem-hantverkare-sverige-2026.csv)
+- [JSON Benchmark](https://offertprogrambygg.se/oppen-datastudie-2026/dataset-affarssystem-hantverkare-sverige-2026.json)
