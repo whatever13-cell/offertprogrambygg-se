@@ -119,6 +119,12 @@ I testerna för 2026 för enskilda firmor och hantverksföretag (1–30 personer
 ### Timpris
 
 - [Timpris snickare 2026](https://offertprogrambygg.se/timpris/snickare/): Vad timmen kostar enligt Byggavtalet
+- [Timpris elektriker 2026](https://offertprogrambygg.se/timpris/elektriker/): Installationsavtalet 2026
+- [Timpris målare 2026](https://offertprogrambygg.se/timpris/malare/): Måleriavtalet 2026
+- [Timpris rörmokare 2026](https://offertprogrambygg.se/timpris/rormokare/): VVS-avtalet 2026
+- [Timpris plattsättare 2026](https://offertprogrambygg.se/timpris/plattsattare/): Byggavtalet 2026
+- [Timpris murare 2026](https://offertprogrambygg.se/timpris/murare/): Byggavtalet 2026
+- [Timpris takläggare 2026](https://offertprogrambygg.se/timpris/taklaggare/): Byggavtalet 2026
 
 ### Skatt
 
@@ -151,6 +157,7 @@ I testerna för 2026 för enskilda firmor och hantverksföretag (1–30 personer
 - [Bygglov och anmälan](https://offertprogrambygg.se/regler/bygglov-och-anmalan/): Vad hantverkaren måste kontrollera
 - [Heta arbeten](https://offertprogrambygg.se/regler/heta-arbeten/): Certifikat, tillstånd och brandvakt
 - [Arbetsmiljöplan och BAS](https://offertprogrambygg.se/regler/arbetsmiljoplan-bas-p-u/): När den krävs och vem som ansvarar
+- [Auktorisation elinstallatör](https://offertprogrambygg.se/regler/elsakerhetsverket-auktorisation/): A, AL eller B hos Elsäkerhetsverket
 
 ### Mallar
 
