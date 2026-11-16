@@ -1367,7 +1367,7 @@ html[data-marca] :is(.sx-pan-in,.sx-pie-in){max-width:1248px!important;padding-l
 document.querySelectorAll(".tw").forEach(box=>{const fn=()=>box.classList.toggle("rl-scroll-hint",box.scrollLeft+box.clientWidth<box.scrollWidth-4);fn();box.addEventListener("scroll",fn,{passive:true});addEventListener("resize",fn)});(function(){const rs=[...document.querySelectorAll('input[type=range]')];const f=r=>r.style.setProperty('--v',((r.value-r.min)/(r.max-r.min)*100)+'%');rs.forEach(r=>{f(r);r.addEventListener('input',()=>f(r))});document.addEventListener('click',()=>setTimeout(()=>rs.forEach(f),0))})();</script><script>(function(){const g=i=>document.getElementById(i);if(!g('fm'))return;const k=n=>n.toLocaleString('sv-SE',{minimumFractionDigits:2,maximumFractionDigits:2})+' kr';
 function c(){const a=+g('fm-a').value||0,m=+g('fm-m').value||0,o=+g('fm-o').value||0,t=g('fm-k').value,ex=a+m+o;
 if(t==='omv'){g('fm-r').textContent=k(ex);g('fm-x').textContent='Ingen moms på fakturan. Skriv «Omvänd betalningsskyldighet» och köparens momsregistreringsnummer; underlaget '+k(ex)+'.';return}
-const moms=ex*0.25,rot=t==='rot'?Math.min(50000,Math.floor(a*1.25*0.3)):0;g('fm-r').textContent=k(ex+moms-rot);
+const moms=ex*0.25,rot=t==='rot'?Math.min(50000,Math.round(Math.round(a*125*0.3)/100)):0;g('fm-r').textContent=k(ex+moms-rot);
 g('fm-x').textContent='Summa utan moms '+k(ex)+', moms 25 % '+k(moms)+(rot?', rotavdrag (30 % av arbetet med moms) −'+k(rot)+'. Du begär '+k(rot)+' från Skatteverket när kunden betalat.':'.')}
 ['fm-a','fm-m','fm-o','fm-k'].forEach(i=>g(i).addEventListener('input',c));c()})();</script>
 <script>(function(){var d=document,R=d.documentElement;R.classList.add('js');
