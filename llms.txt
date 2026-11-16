@@ -149,6 +149,7 @@ I testerna för 2026 för enskilda firmor och hantverksföretag (1–30 personer
 ### Företaget
 
 - [ID06](https://offertprogrambygg.se/foretag/id06/): Kortet, priset och hur länge det gäller
+- [Starta enskild firma](https://offertprogrambygg.se/foretag/starta-enskild-firma/): Registreringarna för en hantverkare
 - [Konsumenttjänstlagen](https://offertprogrambygg.se/foretag/konsumenttjanstlagen/): Pris, tilläggsarbete och reklamation
 - [Slutbesiktning](https://offertprogrambygg.se/foretag/slutbesiktning/): Vad lagen kräver av hantverkaren
 - [Inkasso och Kronofogden](https://offertprogrambygg.se/foretag/inkasso-och-kronofogden/): Från påminnelse till betalningsföreläggande
