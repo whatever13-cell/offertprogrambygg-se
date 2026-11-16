@@ -134,6 +134,7 @@ I testerna för 2026 för enskilda firmor och hantverksföretag (1–30 personer
 - [F-skatt](https://offertprogrambygg.se/skatt/f-skatt/): Vad den betyder, ansökan och kundens ansvar
 - [Momsdeklaration](https://offertprogrambygg.se/skatt/momsdeklaration/): Månad, kvartal eller år, och datumen
 - [Omvänd byggmoms](https://offertprogrambygg.se/skatt/omvand-byggmoms/): När momsen vänds och vad fakturan ska säga
+- [Preliminärskatt enskild firma](https://offertprogrambygg.se/skatt/preliminarskatt-enskild-firma/): F-skatt per månad och schablonen 110 %
 - [Personalliggare bygg](https://offertprogrambygg.se/skatt/personalliggare/): Vem som ska föra den och undantagen
 - [Krav på faktura](https://offertprogrambygg.se/skatt/krav-pa-faktura/): Alla uppgifter, med ROT och omvänd moms
 - [ROT- och e-fakturatest](https://offertprogrambygg.se/rot-avdrag-efaktura-check-hantverkare-2026/): Är din fakturering redo?
@@ -149,7 +150,10 @@ I testerna för 2026 för enskilda firmor och hantverksföretag (1–30 personer
 
 - [ID06](https://offertprogrambygg.se/foretag/id06/): Kortet, priset och hur länge det gäller
 - [Konsumenttjänstlagen](https://offertprogrambygg.se/foretag/konsumenttjanstlagen/): Pris, tilläggsarbete och reklamation
+- [Slutbesiktning](https://offertprogrambygg.se/foretag/slutbesiktning/): Vad lagen kräver av hantverkaren
 - [Inkasso och Kronofogden](https://offertprogrambygg.se/foretag/inkasso-och-kronofogden/): Från påminnelse till betalningsföreläggande
+- [Enskild firma eller aktiebolag](https://offertprogrambygg.se/foretag/enskild-firma-eller-aktiebolag/): Skatt, ansvar och kostnad 2026
+- [Bokföring och arkivering](https://offertprogrambygg.se/foretag/bokforing-och-arkivering/): Kontantmetod, verifikation och sju år
 
 ### Regler
 
@@ -164,6 +168,8 @@ I testerna för 2026 för enskilda firmor och hantverksföretag (1–30 personer
 - [Betalningspåminnelse](https://offertprogrambygg.se/mallar/betalningspaminnelse/): Mall i Word med avgift och ränta
 - [Fakturamall](https://offertprogrambygg.se/mallar/faktura-mall/): Word och Excel med ROT och omvänd moms
 - [Offertmall](https://offertprogrambygg.se/mallar/offert-mall/): Word och Excel, fast eller ungefärligt pris
+- [Tidrapport mall](https://offertprogrambygg.se/mallar/tidrapport-mall/): Excel med veckosummor och övertid
+- [Arbetsorder mall](https://offertprogrambygg.se/mallar/arbetsorder-mall/): Word och Excel, kunden skriver under
 - [Faktura i Word och Excel](https://offertprogrambygg.se/skatt/krav-pa-faktura/): Med ROT-formel och omvänd moms
 
 ### Program
